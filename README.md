@@ -1,6 +1,6 @@
 # bmi_calculator
 
-This app measure body fat based on height and weight.
+# This app measure body fat based on height and weight.
 ![Screenshot 2023-06-06 213946](https://github.com/bikashparida/bmi_calculator/assets/125130144/ddfd4f79-e4ec-448b-819c-86cc0085bd0d)
 ![Screenshot 2023-06-06 214043](https://github.com/bikashparida/bmi_calculator/assets/125130144/10c5692e-f258-40f2-b7c6-e2eb733c1b35)
 
